@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBerghild
-- 👀 I’m interested in 3D and game development
-- 🌱 I’m currently learning c++, GLSL and other boring stuff...
+- 👀 I’m interested in boring boilerplate code
+- 🌱 I’m currently learning Java, GLSL and other boring stuff...
 - 📫 Reach me at theberghild@gmail.com
 - ⚡ Fun fact: with godot 4 you can use lambda functions!!!🎉🎉🎉
 
